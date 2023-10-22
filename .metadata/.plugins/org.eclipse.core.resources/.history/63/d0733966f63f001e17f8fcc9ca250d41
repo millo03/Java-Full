@@ -1,0 +1,21 @@
+package jsoft.library;
+
+import java.util.*;
+import javax.servlet.*;
+
+
+public class Utilities {
+	
+	public static byte getByteParam(ServletRequest request, String name) {
+		byte value = -1;
+		
+		String st_value = request.getParameter(name);
+		
+		if (str_value != null && str_value.length() != 0) {
+			
+		}
+		
+		
+		return value;
+	}
+}

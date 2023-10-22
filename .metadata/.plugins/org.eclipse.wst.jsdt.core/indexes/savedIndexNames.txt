@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\JP302\JP302_VietHoang\Bulit_2023\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3294587089.index
+4195042474.index
+170999955.index
+271982466.index
+431428722.index
+1767431735.index
+1192534694.index

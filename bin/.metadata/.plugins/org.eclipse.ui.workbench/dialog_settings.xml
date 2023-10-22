@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="D:\Others\MyConfig\eclipse-config.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="D:\Others\MyConfig\eclipse-config.epf"/>
+			<item value="D:\Others\MyConfig\20230731_EclipseConfig.epf"/>
+			<item value="D:\Others\MyConfig\20230728_EclipseConfig_v3.epf"/>
+			<item value="D:\Others\MyConfig\20230728_EclipseConfig.epf"/>
+			<item value="D:\Others\MyConfig\20230727_EclipseConfig.epf"/>
+		</list>
+	</section>
+	<section name="PreferencesExportWizard">
+		<item key="" value="D:\Others\MyConfig\20230728_EclipseConfig_v2.epf"/>
+		<item key="WizardPreferencesExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="true"/>
+		<item key="WizardPreferencesExportPage1.EXPORT_ALL_PREFERENCES_ID" value="true"/>
+		<item key="" value="D:\Others\MyConfig\eclipse-config.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="D:\Others\MyConfig\eclipse-config.epf"/>
+			<item value="D:\Others\MyConfig\20230728_EclipseConfig_v2.epf"/>
+			<item value="D:\Others\MyConfig\20230727_EclipseConfig.epf"/>
+			<item value="D:\Others\MyConfig\20230723_EclipseConfig.epf"/>
+			<item value="D:\MyConfig\myConfigPreference_Eclipse.epf"/>
+		</list>
+		<list key="WizardPreferencesExportPage1.TRANSFER_PREFERENCES_NAMES_ID">
+			<item value="org.eclipse.jdt.debug.ui.transfer.jres"/>
+			<item value="org.eclipse.jdt.internal.ui.transfer.codestyle"/>
+			<item value="org.eclipse.jdt.internal.core.transfer.compiler"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+	</section>
+</section>

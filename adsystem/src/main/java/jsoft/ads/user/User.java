@@ -1,0 +1,22 @@
+package jsoft.ads.user;
+
+
+import java.sql.ResultSet;
+import java.util.ArrayList;
+
+import jsoft.ShareControl;
+import jsoft.objects.UserObject;
+
+public interface User extends ShareControl {
+	// Các phương thức cập nhật thông tin Người sử dụng
+	public boolean addUser(UserObject item);
+	public boolean editUser(UserObject item, USER_EDIT_TYPE edt);
+	public boolean delUser(UserObject item);
+
+	// Các phương thức / chức năng lấy thông tin Người sử dụng
+	public ResultSet getUser(int id);
+	public ResultSet getUser(String username, String userpass);
+	public ArrayList<ResultSet> getUsers(UserObject similar, int at, byte total, USER_SORT_TYPE type);
+	// at, total để phân trang
+	// similar để lọc dựa theo điều kiện
+}

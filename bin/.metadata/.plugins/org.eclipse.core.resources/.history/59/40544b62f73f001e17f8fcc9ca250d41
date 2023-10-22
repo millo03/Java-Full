@@ -1,0 +1,8 @@
+package jsoft.library;
+
+public class UtilitiesText {
+	
+	public static boolean isValidPass(String password, String confirmPassword) {
+		
+	}
+}

@@ -1,0 +1,13 @@
+package jsoft.library;
+
+public class UtilitiesText {
+	
+	public static boolean isValidPass(String password, String confirmPassword) {
+		if (password != null && confirmPassword != null) {
+			if (password.length() > 0 && confirmPassword.length() > 0) {
+				
+			}
+		}
+		return password != null && confirmPassword != null ? password.endsWith(confirmPassword) : false;
+	}
+}

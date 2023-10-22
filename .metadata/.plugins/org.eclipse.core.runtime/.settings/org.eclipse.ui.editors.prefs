@@ -1,0 +1,11 @@
+AbstractTextEditor.Color.Background=40,44,53
+AbstractTextEditor.Color.FindScope=75,78,85
+AbstractTextEditor.Color.SelectionBackground=62,68,81
+PHPReadOccurrenceIndicationColor=75,78,85
+currentIPColor=44,50,59
+eclipse.preferences.version=1
+findIndicationColor=45,55,114
+org.eclipse.cdt.ui.occurrenceIndicationColor=75,78,85
+org.eclipse.cdt.ui.writeOccurrenceIndicationColor=63,63,4
+printMarginColor=75,83,99
+spellingEnabled=false

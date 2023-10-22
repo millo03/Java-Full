@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="jobArea"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="jobarea"/>
+			<item value="newUser"/>
+			<item value="txtJob"/>
+			<item value="tab-content"/>
+			<item value="profile "/>
+			<item value="change-password"/>
+			<item value="overview"/>
+			<item value="out.append(&quot;&quot;);"/>
+		</list>
+		<list key="replacehistory">
+			<item value="selectedUser"/>
+			<item value="&quot;).append(&quot;&quot;).append(&quot;"/>
+			<item value="ArticleObject"/>
+		</list>
+	</section>
+</section>

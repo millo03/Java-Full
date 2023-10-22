@@ -1,0 +1,9 @@
+package jsoft.library;
+
+import java.util.*;
+import javax.servlet.*;
+
+
+public class Utilities {
+	
+}
